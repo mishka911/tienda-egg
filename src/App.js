@@ -11,9 +11,10 @@ function App() {
   return (
     <>
       <NavMenu/>
+      <Hero/>
       <Store/>
    <Footer2/>
-   <Hero/>
+  
 
     </>
 
